@@ -2,7 +2,7 @@
 #Date of last revision: 08/15/2023
 #Script: Lab 01 automation script
 #Purpose: download and install antivirus
-
+#NOTE: MAKE SURE EXECUTION POLICY IS PROPERLY SET BEFORE RUNNING
 #Variables:
 
 #url variable to store the url of the download
